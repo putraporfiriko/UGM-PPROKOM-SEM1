@@ -8,3 +8,6 @@ Variables, datatypes, operators, and input-output is an essential part of a pyth
 
 ### Variables
 Variables is used to store a 
+
+### Variables
+Variables is used to store a 
