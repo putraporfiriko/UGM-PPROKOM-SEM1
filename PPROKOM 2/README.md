@@ -19,6 +19,21 @@ A variable's names can be almost anything, but there are some limitations on wha
 
 ### Datatypes
 In Python, there are a few datatypes that an user can use to their advantages. Some basic datatypes that python supports include: 
-- Strings  (referred as str)
-- Integers (referred as int)
+- Strings        (referred as str)
+- Integers       (referred as int)
 - Floating-point (referred as float)
+- Date
+- Complex
+- Hexadecimals
+- None
+- List
+- Tuple
+- Dictionary
+- Object
+
+Datatype defines how a data is presented by a computer; characters, numbers, strings, records. Datatypes are also divided into 2 kinds:
+- Basic Datatypes, and
+- Special Datatypes.
+
+#### Datatypes: Number
+There are 2 common datatypes for numbers, being **float** and **integer**. Integer refers to whole numbers, meanwhile float refers to fractions. Aside from that, there are one other datatypes, which is **complex** numbers, which is a number that has a real number AND an imaginary number. Integer, float, and complex numbers are each represented in Python with the int, float, and complex classes.
