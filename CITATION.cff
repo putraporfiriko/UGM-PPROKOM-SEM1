@@ -1,8 +1,12 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
 cff-version: 1.2.0
-message: "personal citation file"
+title: Praktikum Pemrograman Komputer
+message: personal citation template. wlee
+type: software
 authors:
-  - family-names: Porfiriko
-    given-names: Abdul H. P.
-title: "Pertemuan 3 Praktikum Pemrograman Komputer"
-version: 2.0.4
-date-released: 2021-08-11
+  - given-names: Abdul
+    name-particle: H. P.
+    family-names: Porfiriko
+    email: abdulhakeemputraporfiriko@mail.ugm.ac.id
