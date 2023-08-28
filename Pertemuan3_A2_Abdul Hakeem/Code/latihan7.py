@@ -1,6 +1,7 @@
 z = [1, 3, 2, 4, 'Alice', 'Bob']
 #z.sort()
 #print(z)
+# ^this errors out the script. to fix it, change the int into str by putting it between a "" or an ''.
 
 print("Hello there!\nHow are you?\nI'm doing fine.")
 

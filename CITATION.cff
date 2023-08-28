@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "personal citation file"
+authors:
+  - family-names: Porfiriko
+    given-names: Abdul H. P.
+title: "Pertemuan 3 Praktikum Pemrograman Komputer"
+version: 2.0.4
+date-released: 2021-08-11
