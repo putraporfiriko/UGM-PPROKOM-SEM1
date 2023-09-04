@@ -1,0 +1,10 @@
+alg:
+
+start
+1.take input in form of dict: {name:score*5}
+	^this means input loop, 5 times.
+2.check if the score belonging to respective student matches or is more than criteria
+	if the score meets criteria, then print that the student passes.
+	
+	if not, print that the student did not pass.
+eof
