@@ -14,11 +14,11 @@ elif(n == "8< []"):
 # draw
 
 elif (n == "[] []"):
-    print("It's a Draw!")
+    print("Draw")
 elif (n == "() ()"):
-    print("It's a Draw!")
+    print("Draw")
 elif (n == "8< 8<"):
-    print("It's a Draw!")
+    print("Draw")
 
 # pemain 2 menang
 
