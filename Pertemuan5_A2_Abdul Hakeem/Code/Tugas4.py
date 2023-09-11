@@ -5,7 +5,9 @@ for i in range (0, data_act):
     datainput = int(input("Input the data: "))
     datalist.append(datainput)
 
-datasum = sum(datalist)
+#datasum = sum(datalist)
+#datasum
+
 
 dataavg = datasum / data_act
 print(dataavg)
