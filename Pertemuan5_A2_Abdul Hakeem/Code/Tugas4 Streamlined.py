@@ -1,11 +1,9 @@
 datact = int(input("How much data you want to input? "))
-datalist = []
+dsum = 0
 
 for i in range (0, datact):
     datainput = int(input("Input the data: "))
-    datalist.append(datainput)
+    dsum += datainput
 
-datasum = sum(datalist)
-
-dataavg = datasum / datact
-print(dataavg)
+davg = dsum/datact
+print(davg)
