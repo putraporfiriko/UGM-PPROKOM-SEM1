@@ -11,3 +11,4 @@ while True:
     if sisa<0:
         print("balance insufficient.")
         print("remaining balance: ", sisa+pengeluaran)
+        break
