@@ -5,5 +5,5 @@ d = set({100,200,300})
 
 print(a.union(d))
 print(b.union(d))
-print(c.union(d))
+print(b.union(c.union(d)))
 print(a.union(b.union(c.union(d))))
