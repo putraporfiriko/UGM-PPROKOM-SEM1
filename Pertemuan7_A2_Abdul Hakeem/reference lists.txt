@@ -1,0 +1,3 @@
+reference lists
+https://www.w3schools.com/python/ref_string_split.asp
+https://www.toppr.com/guides/python-guide/questions/what-does-end-do-in-python/#:~:text=The%20end%20parameter%20in%20the,whitespace%20and%20not%20a%20newline.
