@@ -3,7 +3,7 @@ def cetak_matriks(matriks):
         print(row)
 
 def pjg_matriks(matriks):
- return len(matriks[0])
+ return len(matriks[0]) 
 
 def lbr_matriks(matriks):
  return len(matriks)
@@ -34,3 +34,7 @@ cetak_matriks(matriks_b)
 print("transpose matriks_b : ")
 trp_mat_b = transpose_matriks(matriks_b)
 cetak_matriks(trp_mat_b)
+
+
+
+

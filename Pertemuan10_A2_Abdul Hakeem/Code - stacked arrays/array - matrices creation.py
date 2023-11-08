@@ -7,3 +7,6 @@ for i in range(m):
     x[i] = [1] * n
     
 print(x)
+
+
+
